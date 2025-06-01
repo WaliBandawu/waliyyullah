@@ -5,8 +5,8 @@ import requests
 import urllib3
 
 # Config
-RGT_API_URL = "https://rgt-litellm.ddns.net/chat/completions"
-RGT_API_KEY = "sample_key"
+RGT_API_URL =  # Replace with your actual API URL
+RGT_API_KEY =  # Replace with your actual API key
 
 # Page config
 st.set_page_config(page_title="Simple Chatbot", page_icon="🤖", layout="centered")
